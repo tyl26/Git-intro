@@ -6,3 +6,4 @@ console.log('eewew');
 console.log('drgerg');
 
 console.log('bajskorv');
+console.log('hej ramta');
